@@ -9,4 +9,3 @@ A curated list of data apps designed using streamlit.
    
    
    
-   ***Adopted from https://share.streamlit.io/streamlit/example-app-commenting/main***
