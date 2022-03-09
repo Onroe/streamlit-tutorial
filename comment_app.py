@@ -2,10 +2,8 @@ from datetime import datetime
 import pandas as pd
 from sklearn import utils
 import streamlit as st
-#import db
-import sys 
-sys.path.append('../')
-from utils import db
+import db
+#from utils import db
 
 COMMENT_TEMPLATE_MD = """{} - {}
 > {}"""
